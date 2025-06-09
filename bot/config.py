@@ -11,11 +11,11 @@ class Config:
 
     API_HASH = os.environ.get("7f251a6aeaab9d6a2405147780b9d017")
 
-    CLIENT_ID = os.environ.get("CLIENT_ID")
+    CLIENT_ID = os.environ.get("601236940823-echn9os5c6m777qvr62mde7ju0i805l3.apps.googleusercontent.com")
 
-    CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
+    CLIENT_SECRET = os.environ.get("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")
 
-    BOT_OWNER = int(os.environ.get("BOT_OWNER"))
+    BOT_OWNER = int(os.environ.get("1384448923"))
 
     AUTH_USERS_TEXT = os.environ.get("AUTH_USERS", "")
 
